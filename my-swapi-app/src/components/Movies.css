@@ -1,0 +1,21 @@
+
+/*buttons*/
+.movie-lists {
+    background-color: lightgray;
+    height: 3rem;
+    width: 20rem;
+    z-index: 1;
+    border: none;
+    margin: 1rem;
+    border-radius: 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: .8s;
+}
+
+.movie-lists:hover {
+    color: white;
+    background-color: black;
+    outline: 1px white solid;
+    transition: .8s;
+}
